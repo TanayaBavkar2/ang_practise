@@ -1,6 +1,6 @@
 <button mat-button color="warn" class="btn1" routerLink="/admin/adminland" >Back</button>
 <div class="main">
-    <h2 style="text-align: center;">Login Here</h2>
+    <h2 style="text-align: center;"><b>Login Here</b></h2>
     <form #userName="ngForm" autocomplete="off">
         <mat-form-field class="input">
             <mat-label>Enter Name</mat-label>
@@ -13,9 +13,10 @@
             <input matInput type="password" placeholder="Enter your password" name="password" #password="ngModel" ngModel required>
             <mat-hint>Enter your valid password</mat-hint>
           </mat-form-field><br><br>
-          
+          <div class="div-submit">
           <button class="btn" [disabled]="!userName.valid" (click)="submit(userName.value)">Sign In</button><br><br>
-          <div>Not a member?<a routerLink="/admin/adminsignup">Sign up now</a></div>
+          Not a member?<a routerLink="/admin/adminsignup">Sign up now</a>
+        </div>
     </form>
 </div>
 <!-- <div *ngIf="hideNotification && !showNotification" class="toast align-items-center" role="alert" aria-live="assertive" aria-atomic="true">

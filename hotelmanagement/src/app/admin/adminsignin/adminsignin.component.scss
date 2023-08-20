@@ -1,7 +1,7 @@
 .main{
     width: 520px;
-    border: 1px solid #cb3709;
-    background-color: lightcyan;
+    border: 1px solid #000000;
+    background-color: rgb(210, 243, 126);
     margin: auto;
     padding: 15px;
     margin-top: 50px;
@@ -12,6 +12,9 @@
 .btn{
     background-color: #f20e31;
     color: white
+}
+.div-submit{
+    text-align: center;
 }
 
 .btn:hover{
