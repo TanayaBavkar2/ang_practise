@@ -7,8 +7,15 @@ import { Component } from '@angular/core';
 })
 export class UsersigninComponent {
   
-//   submit(data:any){
-//     console.log(data,'data');
-    
-//  }
+ 
+  responseData : any;
+  signINForm: any;
+  signInForm: any;
+
+  
+
+  async submit(data:any){
+    console.log(data,'data');
+    this.signInForm = data;
+}
 }

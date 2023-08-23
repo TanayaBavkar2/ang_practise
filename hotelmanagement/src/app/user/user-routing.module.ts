@@ -8,7 +8,7 @@ import { UsersuccessComponent } from './usersuccess/usersuccess.component';
 
 const routes: Routes = [
   {path:'userland',component:UserlandingComponent},
-  //{path:'usersignin',component:UsersigninComponent},
+  {path:'usersignin',component:UsersigninComponent},
   {path:'usersignup',component:UsersignupComponent},
   {path:'usersuccess',component:UsersuccessComponent},
   {path:'hotelbooking',component:HotelbookingComponent},

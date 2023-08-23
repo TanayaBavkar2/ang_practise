@@ -4,7 +4,20 @@ body{
     background-size: cover;
     background-position: center ;
 }
-
+.btns{
+    padding: 30px;
+    text-align: center;
+    position: absolute;
+}
+.btn-container{
+    background-color: rgba(236, 255, 127, 0.584);
+    height: 350px;
+    width: 400px;
+    position: relative;
+    top: 100px;
+    left: 450px;
+}
 .btn{
     margin: 10px;
+
 }
