@@ -344,72 +344,19 @@
       "userCheck": true,
       "userConfirmpass": "Asds@123",
       "id": 10
-    },
-    {
-      "userName": "",
-      "userEmail": "",
-      "userMob": "",
-      "gender": "",
-      "userpass": "",
-      "userCheck": "",
-      "userConfirmpass": "",
-      "id": 11
     }
   ],
   "users": [
+
     {
-      "userName": "Akshay",
-      "userEmail": "askja@123hgamil.com",
-      "userMob": "8794569581",
-      "gender": "male",
-      "userpass": "Akshay@123",
+      "userName": "rohit",
+      "userEmail": "rohit123@gmail.com",
+      "userMob": "8767897654",
+      "gender": "Male",
+      "userpass": "Rohit@123",
       "userCheck": true,
+      "userConfirmpass": "Rohit@123",
       "id": 1
-    },
-    {
-      "userName": "Akshay",
-      "userEmail": "aksja212@gamil.com",
-      "userMob": "8945689569",
-      "gender": "male",
-      "userpass": "Akshay@1234",
-      "userCheck": true,
-      "id": 2
-    },
-    {
-      "userName": "Akshay",
-      "userEmail": "aksja212@gamil.com",
-      "userMob": "8945689569",
-      "gender": "male",
-      "userpass": "Akshay@1234",
-      "userCheck": true,
-      "id": 3
-    },
-    {
-      "userName": "Akshay",
-      "userEmail": "aksj@123gmail.com",
-      "userMob": "8745696857",
-      "gender": "male",
-      "userpass": "Akslak@123",
-      "userCheck": true,
-      "id": 4
-    },
-    {
-      "userName": "Akshay",
-      "userEmail": "asjak@123gmail.com",
-      "userMob": "8745956977",
-      "gender": "male",
-      "userpass": "Akshaj@123",
-      "userCheck": true,
-      "id": 5
-    },
-    {
-      "userName": "Akshay",
-      "userEmail": "akshay123@gami.com",
-      "userMob": "8569745697",
-      "gender": "male",
-      "userpass": "Akshay@123",
-      "userCheck": true,
-      "id": 6
     }
   ],
   "hotelDetails": [
@@ -422,7 +369,7 @@
       "roomAvailable": "40",
       "userPass": "Aksjau@123",
       "owenrCheck": true,
-      "id": 15
+      "id": 1
     },
     {
       "ownerName": "Akshay",
