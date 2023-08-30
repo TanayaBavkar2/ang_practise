@@ -347,7 +347,6 @@
     }
   ],
   "users": [
-
     {
       "userName": "rohit",
       "userEmail": "rohit123@gmail.com",
@@ -357,6 +356,26 @@
       "userCheck": true,
       "userConfirmpass": "Rohit@123",
       "id": 1
+    },
+    {
+      "userName": "tejaswi",
+      "userEmail": "tejaswi@gmail.com",
+      "userMob": "9860616455",
+      "gender": "Female",
+      "userpass": "Tejaswi@123",
+      "userCheck": true,
+      "userConfirmpass": "Tejaswi@123",
+      "id": 2
+    },
+    {
+      "userName": "krishna",
+      "userEmail": "krishna@gmail.com",
+      "userMob": "8765463667",
+      "gender": "Male",
+      "userpass": "Krishna@123",
+      "userCheck": true,
+      "userConfirmpass": "Krishna@123",
+      "id": 3
     }
   ],
   "hotelDetails": [
